@@ -1,0 +1,58 @@
+
+#img2
+{
+    height: 200px;
+    width: 20%;
+    padding-top: 70px;
+}
+#img3
+{
+    height: 200px;
+    width: 20%;
+}
+#img4
+{
+    height: 200px;
+    width: 20%;
+}
+#img5
+{
+    height: 200px;
+    width: 20%;
+}
+#img6
+{
+    height: 200px;
+    width: 20%;
+}
+#img7
+{
+    height: 200px;
+    width: 20%;
+}
+#img9
+{
+    height: 200px;
+    width: 20%;
+}
+#img8
+{
+    height: 200px;
+    width: 20%;
+}
+#myCarousel
+{
+    background-color: mediumseagreen;
+}
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:aqua;
+    font-size: 20px;
+}
+#myCarousel img
+{
+    margin-top: 35px;
+    height: 300px;
+}
